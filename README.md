@@ -76,3 +76,4 @@ In your browser-side javascript:
 var $ = require('jquery-browserify');
 require('jquery-mousewheel')($);
 ```
+https://owlcarousel2.github.io/OwlCarousel2/
